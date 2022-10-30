@@ -1,4 +1,4 @@
-# udacity-third-project  [![CircleCI](https://dl.circleci.com/status-badge/img/gh/2ntonio/udacity-third-project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/2ntonio/udacity-third-project/tree/main)
+# udacity-third-project [![CircleCI](https://dl.circleci.com/status-badge/img/gh/2ntonio/udacity-third-project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/2ntonio/udacity-third-project/tree/main)
 
 This project created by udacity and deployed by Mohamed Mahmoud
 
