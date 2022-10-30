@@ -6,3 +6,8 @@
     - `npm 6.14.8 (LTS)`, or more recent.
     - `AWS CLI v2`, `V1` can work but was not tested for this project.
     - `EB CLI` to be able to deploy the backend in elastic beanstalk.
+
+- Ensure to make Enviroment Variables in CircleCI
+    1. `AWS_ACCESS_KEY_ID`    : EX: `myaccesskey`
+    3. `AWS_SECRET_ACCESS_KEY`: EX: `mysecretaccesskey`
+    2. `AWS_DEFAULT_REGION`   : EX: `us-east-1`

@@ -39,3 +39,11 @@ This project created by udacity and deployed by Mohamed Mahmoud
     DB_USERNAME         : postgres
     DB_PASSWORD         : postgres
 
+
+## Project Infrastructure
+- Services running in AWS
+    - RDS (Relational Database Service)
+    - EB  (Elastic Beanstalk)
+    - S3  (Simple Storage Service)
+
+- This project is using CircleCI pipeline
